@@ -95,15 +95,7 @@ me.say_hi()
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=subhajitchakraborty23&theme=react-dark&hide_border=true&bg_color=0D1117" />
 </div>
 
----
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=subhajitchakraborty23&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" />
-</div>
-
----
 
 ## 🌐 Connect With Me
 
