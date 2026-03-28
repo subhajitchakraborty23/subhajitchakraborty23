@@ -1,11 +1,11 @@
 # 🚀 Subhajit Chakraborty | AI Engineer & Architect
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Building%20Agentic%20AI&fontSize=70&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Building%20Agentic%20AI&fontSize=70&animation=fadeIn" />
 </p>
 
 <p align="left">
-  <img src="https://visitcount.itsvg.in/api?id=subhajitchakraborty23&icon=0&color=0" />
+  <img src="https://komarev.com/ghpvc/?username=subhajitchakraborty23&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ## 🔬 About Me
